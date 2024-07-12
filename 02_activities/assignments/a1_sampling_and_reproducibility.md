@@ -10,10 +10,35 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Olha Zamohylna
 
 ```
-Please write your explanation here...
+The code in `whitby_covid_tracing.py` simulates infection and contact tracing process in people, who attended wedding and brunches.
+
+##Stages of the sampling:
+
+- Subset of people, who are randomly infected by np.random.choice()
+Sampling frame: 1000 people (wedding: 200; brunch: 800).
+Sample Size: 10% of the total number of people (len(ppl) * ATTACK_RATE).
+Indices selected without replacements, which means that the same person cannot be selected more that once (replace=False).
+
+- Primary contact tracing by np.random.rand()
+Sample Size: number of infected individuals (sum(ppl['infected'])).
+Sampling Frame: all infected individuals.
+Each individual is marked as traced if this random number is less than TRACE_SUCCESS (20%), means there is a 20% chance for each infected person to be traced.
+
+- Secondary contact tracing (ppl['event'].value_counts() and ppl['event'].isin())
+Sample Size: all events with at least 2 traced individuals.
+Sampling Frame: events attended by individuals who have already been traced
+If an event has at least 2 traced individuals (SECONDARY_TRACE_THRESHOLD), then all infected individuals at that event are traced.
+
+
+##Code execution results:
+
+The number of repetitions in the simulation: 500, 1000, 5000.
+
+Conclution: the bigger a number of repetiotion the less overlap between infections from the wedding and traced to weddings and the widder distribution of cases. With more data points, the variability in the simulation outcomes decreases, leading to more distinct and stable distributions.
+
 
 ```
 
