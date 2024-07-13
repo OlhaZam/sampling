@@ -16,30 +16,50 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `# 1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+As a member of the Human Resources Department, we want to understand why over the past few months there is a high turnover rate across different departnments, specifically within the entry- and lower-level positions. The main purpose is to understand why this happening and what changes need to be implemented to improve employee satisfaction. 
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: employees in entry- and lower-level (junior) positions across all departments.
+
+Sampling frame: the list of all departments within the company.
+
+Sampling units: individuals, which connected to specific departments.
+
+Observational units: current and former employees.
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+For current junior employees:
+
+1. What was the main goal(s) when you started the junior position in the company?
+2. How do you feel, are you moving towards your goal(s)?
+3. Did you get help from seniors co-workers when you need it?
+4. How clear and understandable is the working process for you?
+5. Did you see a professional growth during your time working in the company?
+6. Is there something that you would like to change or improve?
+7. Any additional comments or suggestions
+
+For former employees:
+
+1. What was the main goal(s) before starting the junior position in the company?
+2. Have you achieved this goal(s)?
+3. If No, please share the details why the goal(s) wasn't achieved?
+4. Did you get help from seniors co-workers when you needed it?
+5. How clear and understandable was the working process for you?
+6. Have you noticed a professional growth during your time working in the company?
+7. What was the reason(s) leaving the company?
+8. What would you change during your time working in the company?
+9. Any additional comments or suggestions
+
 ```
 
 ## Rubric
