@@ -16,30 +16,143 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `# 1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+As a member of the Human Resources Department, we want to understand why over the past few months there is a high turnover rate across different departnments, specifically within the entry- and lower-level positions. The main purpose is to understand why this happening and what changes need to be implemented to improve employee satisfaction. 
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: Employees in entry- and lower-level (junior) positions across all departments.
+
+Sampling frame: The list of all departments within the company.
+
+Sampling units: Individuals, which connected to specific departments.
+
+Observational units: Current and former junior employees.
+
+
+The Sampling Method:
+
+Stratified Random Sampling: Given that turnover rates and reasons may vary across departments, it is important to ensure representation from all departments. Stratify the sample by department and by current/former status of employment and then randomly select individuals within each stratum.
+Steps:
+Stratify: Divide the sampling frame into strata based on departments and status.
+Random Selection: Within each stratum, randomly select a proportionate number of individuals.
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+For current junior employees:
+
+1. What was the main goal(s) when you started the junior position in the company?
+a) Gaining industry experience
+b) Developing specific skills
+c) Networking and building professional relationships
+d) Advancing to a higher position
+e) Other: _______________
+
+2. How do you feel, are you moving towards your goal(s)?
+a) Strongly agree
+b) Agree
+c) Neutral
+d) Disagree
+e) Strongly disagree
+
+3. Did you get help from senior co-workers when you needed it?
+a) Always
+b) Often
+c) Sometimes
+d) Rarely
+e) Never
+
+4. How clear and understandable is the working process for you?
+a) Very clear
+b) Clear
+c) Neutral
+d) Unclear
+e) Very unclear
+
+5. Did you see professional growth during your time working in the company?
+
+a) Significant growth
+b) Moderate growth
+c) Some growth
+d) Little growth
+e) No growth
+
+6. Is there something that you would like to change or improve?
+a) Yes, please specify: _______________
+b) No
+
+7. Any additional comments or suggestions?
+a) Yes, please specify: _______________
+b) No
+
+
+For former junior employees:
+
+1. What was the main goal(s) before starting the junior position in the company?
+a) Gaining industry experience
+b) Developing specific skills
+c) Networking and building professional relationships
+d) Advancing to a higher position
+e) Other: _______________
+
+2. Have you achieved this goal(s)?
+a) Yes
+b) Partially
+c) No
+
+3. If No, please share the details of why the goal(s) wasn't achieved.
+a) Lack of support
+b) Insufficient resources
+c) Unclear expectations
+d) Personal reasons
+e) Other: _______________
+
+4. Did you get help from senior co-workers when you needed it?
+a) Always
+b) Often
+c) Sometimes
+d) Rarely
+e) Never
+
+5. How clear and understandable was the working process for you?
+a) Very clear
+b) Clear
+c) Neutral
+d) Unclear
+e) Very unclear
+
+6. Have you noticed professional growth during your time working in the company?
+a) Significant growth
+b) Moderate growth
+c) Some growth
+d) Little growth
+e) No growth
+
+7. What was the reason(s) for leaving the company?
+a) Better job opportunity
+b) Lack of career advancement
+c) Personal reasons
+d) Unhappiness with work environment
+e) Other: _______________
+
+8. What would you change during your time working in the company?
+a) Management style
+b) Team dynamics
+c) Work processes
+d) Professional development opportunities
+e) Other: _______________
+
+9.Any additional comments or suggestions?
+a) Yes, please specify: _______________
+b) No
+
 ```
 
 ## Rubric
