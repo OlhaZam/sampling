@@ -89,14 +89,14 @@
         a) Yes, please specify: _______________
         b) No
 
-        Link to the previous version of the survey -> https://github.com/OlhaZam/sampling/blob/09222db9a90f75abed4b447c1e384ab83d07a7c6/02_activities/assignments/a2_questionnaire_design_part_a.md
+        Link to the previous version of the survey -> [Questionnaire-a](https://github.com/OlhaZam/sampling/blob/09222db9a90f75abed4b447c1e384ab83d07a7c6/02_activities/assignments/a2_questionnaire_design_part_a.md)
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
     No, an observational study alone would not be sufficient to fulfill the purpose of the survey. 
-    
+
     While observational studies can provide valuable contextual information and identify visible patterns of behavior, they are limited in capturing subjective insights, such as personal feelings, motivations, and perceptions, which are crucial for understanding job satisfaction and reasons for turnover. For example, observers might note high turnover but cannot determine whether it is due to dissatisfaction with management, lack of career development, or personal reasons.
 
     ```
